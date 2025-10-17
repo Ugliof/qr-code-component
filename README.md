@@ -13,11 +13,11 @@ Recriar o componente de cartão com QR Code proposto pelo desafio, aplicando con
 - CSS3  
 
 ## 🚀 Deploy
-🔗 [Acesse o projeto online aqui](https://seuusuario.github.io/desafio-qr-code/)
+🔗 [Acesse o projeto online aqui](https://ugliof.github.io/qr-code-component/)
 
 ## 💡 Aprendizados
 Durante esse desafio, pratiquei conceitos importantes de responsividade e estruturação de layout.  
 Aprendi a centralizar elementos com **Flexbox** e a trabalhar com espaçamento, bordas arredondadas e sombras.
 
 ## 👨‍💻 Autor
-Feito com ❤️ por [Seu Nome](https://github.com/seuusuario)
+Feito  por [Uglio Fergutz](https://github.com/Ugliof)
